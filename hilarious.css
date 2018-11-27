@@ -1,0 +1,310 @@
+#titanic {
+	float: none;
+}
+
+#bermuda-triangle {
+	display: none;
+}
+
+.invisibility-cloak + #harry-potter {
+	visibility: hidden;
+}
+
+.invisibility-cloak + #mad-eye-moody {
+	visibility: visible !important;
+}
+
+#usa + #mexico {
+	border: 1px dashed;
+}
+
+#usa[data-president~='Trump'] + #mexico {
+	border: 30ft solid;
+}
+
+#europe .country:not(#uk) {
+	border: none;
+}
+
+#china {
+	border-top-style: solid;
+}
+
+.sniper-mode-engaged {
+	cursor: crosshair;
+}
+
+#bambis-mom {
+	cursor: crosshair;
+	orphans: 1;
+}
+
+#periodic {
+	display: table;
+}
+
+#big-bang::before {
+	content: '';
+}
+
+#chuck-norris {
+	color: #bada55;
+}
+
+#nsa {
+	opacity: 1;
+}
+
+#tower-of-pisa {
+	font-style: italic;
+}
+/* or */
+#tower-of-pisa {
+	transform: rotate(3.99deg);
+}
+
+#australia {
+  transform: rotateY180deg);
+}
+
+#bruce-banner {
+	color: pink;
+	transition: color 10s;
+}
+
+#bruce-banner.the-hulk {
+	color: green;
+}
+
+#oliver-queen {
+	cursor: arrow;
+}
+
+.ninja {
+	visibility: hidden;
+	color: black;
+}
+
+.leprechaun {
+	height: 20%;
+	color: green;
+	display: none;
+}
+
+.infinity-edge-pools {
+	overflow: hidden;
+}
+
+.obese {
+	width: 200%;
+	overflow: visible;
+}
+
+.muscles {
+	display: flex;
+}
+
+.religious-upbringing {
+	perspective: inherit;
+}
+
+.yamama,
+.yomama,
+.yourmom,
+.yourmomma,
+.yourmother {
+	/* Because she is a classy lady. */
+	width: 99999999px;
+}
+
+#wife {
+	right: 100%;
+	margin: 0%;
+}
+
+#lego {
+	display: block;
+}
+
+.hobbit {
+	height: 50%;
+}
+
+.hobbit .foot {
+	width: 200%;
+}
+
+.delorean {
+	z-index: -1955;
+}
+
+#fear {
+	display: none;
+}
+
+#usa > .marijuana-laws {
+	.federal {
+		cursor: not-allowed !important;
+
+		.state {
+			cursor: wait;
+
+			&#AK,
+			&#CA,
+			&#CO,
+			&#ME,
+			&#MA,
+			&#NV,
+			&#OR,
+			&#WA {
+				cursor: progress;
+			}
+		}
+	}
+}
+
+.single-lane-road {
+	width: auto;
+}
+
+#samsung {
+	@extend apple;
+}
+
+#rip {
+	bottom: -6912px; /* 6912px = 6 feet */
+}
+
+.defibrillator {
+	clear: both;
+}
+
+.illuminati {
+	position: absolute;
+	visibility: hidden;
+}
+
+.government {
+	transition: all 4yr ease-out;
+}
+
+#autobots {
+	transform: translate3d();
+}
+
+#ikea {
+	display: table;
+}
+
+#moses > #sea {
+	column-count: 2;
+}
+
+.gangsta-rap {
+	word-spacing: 0;
+}
+
+.rich-people {
+	top: 1%;
+}
+
+.working-class {
+	bottom: 99%;
+}
+
+.monarch {
+	position: inherit;
+}
+
+.ghost {
+	opacity: 0.1;
+	pointer-events: none;
+}
+
+.glasses-lenses {
+	clear: both;
+	animation: wipe 5s;
+}
+
+.glasses-lenses::after {
+	image-rendering: optimizeQuality;
+}
+
+.internet-explorer {
+	break-inside: auto;
+}
+
+.kkk {
+	color: white !important;
+}
+
+.fat-woman .child {
+	width: inherit;
+}
+
+.thumbs {
+	vertical-align: top;
+}
+
+.egg::before {
+	content: 'chicken';
+}
+/* or */
+.chicken::before {
+	content: 'egg';
+}
+
+.concert {
+	white-space: nowrap;
+}
+
+#berlin .wall {
+	height: 0;
+}
+
+._1961-1989 #berlin .wall {
+	height: 100%;
+}
+
+.cat {
+	box-sizing: content-box;
+}
+
+.table {
+	transform: rotate(180deg);
+	animation: \(╯°□°）╯︵ ┻━┻ 1s;
+}
+
+.table.is--adjusted {
+	transform: rotate(0deg);
+	animation-name: ┬─┬ノ(ಠ_ಠノ);
+}
+
+.jackson {
+	color: black;
+}
+
+.jackson#janet {
+	color: inherit;
+}
+
+.jackson#michael {
+	color: white !important;
+}
+
+.dragon-ball {
+	z-index: 9001;
+}
+
+.moonwalk {
+	transition: 0.2s ease-in-out;
+	transform: translateX(-300px);
+}
+
+.quiet {
+	font-size: 0 !important;
+}
+
+#neo {
+	transform: matrix(0, 1, 0, 1, 0, 1);
+}
