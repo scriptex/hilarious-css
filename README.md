@@ -446,6 +446,18 @@ All jokes and puns are also found in the `hilarious.css` file in this repository
 }
 ```
 
+```css
+.marxism {
+	text-transform: lowercase;
+}
+```
+
+```css
+.capitalism {
+	text-transform: uppercase;
+}
+```
+
 ## LICENSE
 
 MIT
